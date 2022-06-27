@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+Flexbox CSS HTML5
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto desenvolvido para o Santander Bootcamp oferecido pela DIO. Trata-se de réplica responsiva da página de login do instagram utilizando HTML5, CSS e FLEXBOX.
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+Obs. Como o projeto foi realizado no mês do orgulho, trouxe as cores que representam a causa LGBTQIA+

@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background: linear-gradient(90deg, #e40303, #ff8c00, #ffed00, #008026, #004dff, #750787);
     margin: 0;
     padding: 0;
     display: flex;
@@ -50,10 +50,9 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
+    background: transparent;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
 }
 
 .group:nth-child(1) {
@@ -117,6 +116,7 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
+    border-radius: 10%;
 }
 
 .app-download:nth-child(1) {
